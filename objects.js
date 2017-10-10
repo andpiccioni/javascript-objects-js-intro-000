@@ -9,6 +9,8 @@ updatePlaylist(playlist, "Slowdive", "Beat it")
 
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName
-  return playlist
 }
+
+return playlist;
+  
 removeFromPlaylist(playlist, "pink_floyd");
