@@ -9,4 +9,4 @@ updatePlaylist(playlist, "Celentano", "Azzurro")
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName
 }
-removeFromPlaylist(playlist, "Azzurro")
+removeFromPlaylist(playlist, "pink_floyd");
