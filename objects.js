@@ -1,1 +1,1 @@
-var playlist = { pink floyd : "the wall" }
+var playlist = { pink_floyd : "the wall" }
