@@ -13,4 +13,4 @@ function removeFromPlaylist(playlist, artistName){
   return playlist
 }
 
-removeFromPlaylist(playlist, "pink_floyd");
+removeFromPlaylist(playlist, pink_floyd);
