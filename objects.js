@@ -8,6 +8,6 @@ updatePlaylist(playlist, "Celentano", "Azzurro")
 
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName
-  return playlist
+  playlist
 }
 removeFromPlaylist(playlist, "pink_floyd")
