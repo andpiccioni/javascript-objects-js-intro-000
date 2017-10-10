@@ -1,0 +1,1 @@
+var playlist = { pink floyd : "the wall" }
