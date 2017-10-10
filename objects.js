@@ -1,6 +1,7 @@
 var playlist = { pink_floyd : "the wall" }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist["celentano"]="Azzurro"
+  playlist[artistName]=songTitle"value"
   return playlist
 }
+updatePlaylist(playlist, "Celentano", "Azzurro")
